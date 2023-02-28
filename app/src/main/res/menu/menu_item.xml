@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+        <item android:id="@+id/nav_item_one"
+            android:icon="@mipmap/home"
+            android:title="Inicio" />
+        <item android:id="@+id/nav_item_two"
+            android:icon="@mipmap/play"
+            android:title="Jugar" />
+        <item android:id="@+id/nav_item_three"
+            android:icon="@mipmap/play"
+            android:title="Estadisticas" />
+        <item
+            android:id="@+id/nav_item_four"
+            android:icon="@mipmap/back"
+            android:title="Cuenta" />
+        <item
+            android:id="@+id/nav_item_five"
+            android:icon="@mipmap/back"
+            android:title="Salir" />
+    </group>
+
+</menu>

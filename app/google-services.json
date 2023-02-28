@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59262398338",
+    "project_id": "mementomori-643b9",
+    "storage_bucket": "mementomori-643b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59262398338:android:32206d39050de81794e99b",
+        "android_client_info": {
+          "package_name": "com.example.mementomori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59262398338-5aipsuf054cct3nf387fvq67sq1e1dni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mementomori",
+            "certificate_hash": "11eb71f83852852a582fbc0567acfbd305a842a3"
+          }
+        },
+        {
+          "client_id": "59262398338-f8coqs4d7502olecll5q4k8fm0uq4n24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVXh7XrSCNuSBCsvW-mphohskmxZihRlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59262398338-f8coqs4d7502olecll5q4k8fm0uq4n24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
